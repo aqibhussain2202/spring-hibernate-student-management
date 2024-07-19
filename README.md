@@ -1,4 +1,4 @@
-# spring-hibernate-student-management
+
 # Spring Hibernate Student Management
 
 A simple Java application that demonstrates CRUD operations using Spring ORM and Hibernate for managing student records. This application allows users to add, view, update, and delete student information from a MySQL database.
